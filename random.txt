@@ -5,3 +5,7 @@ Look, now I'm adding more code
 test = 100
 
 run = x
+
+def info
+  return @info
+end  
